@@ -6,7 +6,7 @@ from Crypto.Protocol.KDF import PBKDF2
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
-def encrypt_file():
+def encrypt_file(file_name='input'):
 
     simple_key = get_random_bytes(32)
     salt = simple_key
@@ -16,7 +16,7 @@ def encrypt_file():
     with open('OUTPUT/key.bin','wb') as f:
         f.write(salt)
 
-    with open('SOURCE/input','rb') as f:
+    with open(f'SOURCE/{file_name}','rb') as f:
         dark_secret =  f.read()
     
     cipher = AES.new(key, AES.MODE_CBC)

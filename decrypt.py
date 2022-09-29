@@ -1,5 +1,4 @@
 from BLACK_MAGIC import trick as black_magic
+import os 
 
-black_magic.encrypt_file()
 black_magic.decrypt_file()
-# black_magic.bck()
