@@ -10,7 +10,7 @@ def encrypt_file():
 
     simple_key = get_random_bytes(32)
     salt = simple_key
-    password = "mypassword"
+    password = input("PASSWORD: ")
     key = PBKDF2(password, salt, dkLen=32)
 
     with open('OUTPUT/key.bin','wb') as f:
@@ -33,8 +33,7 @@ def decrypt_file():
     with open('OUTPUT/key.bin','rb') as f:
         salt = f.read()
 
-    password = "mypassword"
-    
+    password = input("PASSWORD: ")
     key = PBKDF2(password, salt, dkLen=32)
     
     with open('OUTPUT/encrypted.bin', 'rb') as f:
