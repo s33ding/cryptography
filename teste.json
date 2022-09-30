@@ -1,0 +1,6 @@
+{
+    "host":"123.0.1,7",
+    "user":"root",
+    "passwd":"root",
+    "port":2343
+}
