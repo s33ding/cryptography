@@ -1,6 +1,6 @@
 {
-    "host":"123.0.1,7",
-    "user":"root",
-    "passwd":"root",
-    "port":2343
+  "passwd": "123" ,
+  "user": "dnz",
+  "host": "10.334.344",
+  "port": "3306"
 }
