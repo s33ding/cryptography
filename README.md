@@ -17,7 +17,8 @@ In my research, I found a lot of good tools, but to supply my demand I had to do
 - getpass 	 
 - Crypto 	 	 
 - cryptography
-- pandas	 
+- pandas
+- base64	 
 
 ![WALLPAPER](https://wallpapercave.com/wp/wp9222270.jpg)
 
