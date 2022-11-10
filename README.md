@@ -4,7 +4,7 @@ I created this repository because I needed a way to encrypt my passwords while m
 
 In my research, I found a lot of good tools, but to supply my demand I had to do build some code by myself. So that I can use of those resources in a more suitable way.
 
-##### In this repository I used some stand methods such as:
+### In this repository I used some stand methods such as:
 
 - AES(Advanced Encryption Standard) 
 - PBFK2 (Password-Based Key Derivation Function)
@@ -12,7 +12,7 @@ In my research, I found a lot of good tools, but to supply my demand I had to do
 - SHA-2 (cryptographic hash functions designed by the United States National Security Agency)
 - Fernet (famous algorithm for symmetric encryption and authentication to data)
 
-##### Some importante Python libs that  I user were:
+### Some importante Python libs that  I user were:
 
 - getpass 	 
 - Crypto 	 	 
