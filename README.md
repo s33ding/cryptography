@@ -15,8 +15,7 @@ In my research, I found a lot of good tools, but to supply my demand I had to do
 ##### Some importante Python libs that  I user were:
 
 - getpass 	 
-- Crypto 	 
-- SHA256	 
+- Crypto 	 	 
 - cryptography
 - pandas	 
 
