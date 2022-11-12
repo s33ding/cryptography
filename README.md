@@ -12,7 +12,7 @@ In my research, I found a lot of good tools, but to supply my demand I had to do
 - SHA-2 (cryptographic hash functions designed by the United States National Security Agency)
 - Fernet (famous algorithm for symmetric encryption and authentication to data)
 
-### Some importante Python libs that  I user were:
+### Some importante Python libs that  I used in this repository:
 
 - getpass 	 
 - Crypto 	 	 
