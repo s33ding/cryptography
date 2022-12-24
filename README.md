@@ -14,11 +14,11 @@ In my research, I found a lot of good tools, but to supply my demand I had to do
 
 ### Some importante Python libs that  I used in this repository:
 
-- getpass 	 
+- Getpass 	 
 - Crypto 	 	 
-- cryptography
-- pandas
-- base64	 
+- Cryptography
+- Pandas
+- Base64	 
 
 ![WALLPAPER](https://wallpapercave.com/wp/wp9222270.jpg)
 
