@@ -1,4 +1,4 @@
-# cryptography
+# CRYPTOGRAPHY
 
 I created this repository because I needed a way to encrypt my passwords while making those secrets accessible by my scripts. I also deal a lot with sensitive data from other people. It's my responsability to turn the data structure and accessible without exposing sensitive information.
 
